@@ -26,3 +26,11 @@ git push origin main
 
 8. Basic algorithms: It is important to understand basic algorithms, such as sorting and searching, in Java.
  
+ ## CONSTRUCTORS IN JAVA
+
+1. What is a function ? A function or method is a code block that takes an argument as input and produces output.
+2. Functions can take input and return output
+3. Functions may not take input but produce output
+4. Func may take input but produce no output
+   <access><return type><function name>(<Type variable holding the inpput> called arguments)
+5. If a function does not return anything, the return type is void, and function body must not have return statement
