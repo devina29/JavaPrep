@@ -32,5 +32,5 @@ git push origin main
 2. Functions can take input and return output
 3. Functions may not take input but produce output
 4. Func may take input but produce no output
-   <access><return type><function name>(<Type variable holding the inpput> called arguments)
+   <access modifier><return type><function name>(<Type variable holding the inpput> called arguments)
 5. If a function does not return anything, the return type is void, and function body must not have return statement
